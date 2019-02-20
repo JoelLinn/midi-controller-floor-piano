@@ -1,5 +1,6 @@
 # midi-controller-floor-piano
-Converts your awful sounding floor piano into a midi keyboard controller you can hook up to your synthesizers
+Converts your awful sounding floor piano into a midi keyboard controller you can hook up to your synthesizers.
+It uses an ARM NXP LPC1113 MCU which is hopelessly overpowered but still quite cheap.
 
 ![Image of midi controller board](/board.jpg?raw=true)
 ![Image of standard controller box](/std_box.jpg?raw=true)
